@@ -39,11 +39,8 @@ Before diving into Week 4, make sure you have a solid understanding of the conce
 
 ## Additional Resources
 For further reading and exploration, check out the following resources:
-
-Anomaly Detection Techniques
-Clustering Algorithms Overview
-End-to-End Machine Learning Workflow Guide
-
+* [Machine Learning Specilization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction)
+* [Deep Learning Book from Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 ## Conclusion
 
 By the end of Week 4, you'll have a comprehensive understanding of anomaly detection, clustering, and the practical aspects of solving end-to-end machine learning problems. Feel free to reach out to guides if you have any questions or need assistance.
