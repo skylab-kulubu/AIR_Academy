@@ -49,7 +49,7 @@ For further reading and exploration, check out the following resources:
 * [Machine Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction)
 * [Deep Learning Book from Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 * [TensorFlow Playground](https://playground.tensorflow.org/)
-* 
+  
 ## Conclusion
 
 By the end of Week 3, you'll have a comprehensive understanding of bias-variance tradeoff, underfitting, overfitting, neural networks, decision trees, and random forests. These concepts are fundamental for building effective machine learning models. Feel free to reach out to guides if you have any questions or need assistance.
