@@ -23,7 +23,7 @@ Welcome to the AIR Team Machine Learning Introduction Academy! This repository s
 | Ezgi Sevi           |  | | |
 | Müdafer Kaymak        |  | | |
 | Melih Tuna İpek    | | | |
-| Emine Cansu Akgül | eminecansuakgul@gmail.com| https://www.linkedin.com/in/emine-cansu-akgul/ | https://github.com/xcansuxakgul |
+| Emine Cansu Akgül | eminecansuakgul@gmail.com| [![Linkedin](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/emine-cansu-akgul/) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/xcansuxakgul)|
 
 ## Contact Information
 
