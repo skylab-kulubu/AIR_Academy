@@ -1,48 +1,56 @@
-# Machine Learning Introduction Course: Week 4
+# Machine Learning Introduction Course: Week 3
 
 ## Overview
 
-Welcome to Week 4 of the Machine Learning Introduction Course! This week, we will delve into the fascinating topics of anomaly detection and clustering. Additionally, we'll explore the practical aspects of solving end-to-end machine learning problems.
+Welcome to Week 3 of the Machine Learning Introduction Course! This week, we will delve into the fascinating topics of bias - variance, underfit - overfit, neural networks, decision trees, and random forests. Additionally, we'll try to train our models using the same data, and we will compare the accuracy scores.
 
 ## Topics Covered
 
-### 1. Clustering
+### 1. Bias - Variance and Underfit - Overfit.
 
-In the first part of this week is clustering. Clustering involves grouping similar data points together, and it plays a vital role in various machine learning tasks, including customer segmentation, image segmentation, and recommendation systems.
+In the first part of this week, we'll explore bias, variance, underfitting, and overfitting.
+
+#### Bias:
+Bias is the error introduced by approximating a real-world problem, which may be extremely complex, by a much simpler model. It is the difference between the predicted output and the true output.
+
+#### Variance:
+Variance is the amount by which the model's prediction would change if we trained it on a different dataset. It measures the model's sensitivity to the training data.
+
+#### Underfit:
+Underfitting occurs when a model is too simple to capture the underlying trend of the data. It results in a model that does not perform well on both the training and test data.
+
+#### Overfit:
+Overfitting happens when a model is too complex and fits the training data too closely, capturing noise in the data rather than the underlying pattern. This leads to poor generalization to new, unseen data.
 
 #### Key Concepts:
-- K-means Clustering
-- Practical applications and examples
+- **Bias-Variance Tradeoff:** Finding the right balance between bias and variance is crucial for building a model that generalizes well to new data.
+- **Regularization:** A technique used to prevent overfitting by adding a penalty term for complexity to the model's cost function.
+- **Cross-Validation:** A method to assess a model's performance and generalization by splitting the data into training and validation sets.
 
-### 2. Anomaly Detection
+### 2. Neural Networks, Decision Trees, and Random Forests
 
-The second major theme of this week is that we will focus on anomaly detection. Anomaly detection is a crucial aspect of machine learning, where the goal is to identify unusual patterns or data points that deviate significantly from the norm. This skill is invaluable in various real-world applications such as fraud detection, fault detection, and network security.
+#### Neural Networks:
+Neural networks are a class of machine learning models inspired by the structure and function of the human brain. We'll explore the basics of neural networks, activation functions, and the backpropagation algorithm.
+
+#### Decision Trees and Random Forests:
+Decision trees are tree-like models that make decisions based on features of the data. Random Forests are an ensemble method that builds multiple decision trees and merges them to improve performance and reduce overfitting.
 
 #### Key Concepts:
-- Understanding anomalies in data
-- Techniques for anomaly detection
-- Real-world applications and case studies
-
-
-### 3. End-to-End Machine Learning Problem
-
-The latter part of this lesson will provide a hands-on experience in solving end-to-end machine learning problems. This section aims to integrate the knowledge gained throughout the course into a cohesive understanding of the machine learning workflow.
-
-#### Key Components:
-- Problem formulation and data preparation
-- Model selection and training
-- Evaluation and deployment
+- **Activation Functions:** Functions that introduce non-linearities to neural networks, enabling them to learn complex relationships.
+- **Ensemble Learning:** Combining multiple models to improve overall performance and robustness.
+- **Hyperparameter Tuning:** Adjusting the parameters of a model to achieve better performance.
 
 ## Prerequisites
 
-Before diving into Week 4, make sure you have a solid understanding of the concepts covered in the previous weeks of the course.
+Before diving into Week 3, make sure you have a solid understanding of the concepts covered in the previous weeks of the course.
 
 ## Additional Resources
 For further reading and exploration, check out the following resources:
-* [Machine Learning Specilization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction)
+* [Machine Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction)
 * [Deep Learning Book from Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+
 ## Conclusion
 
-By the end of Week 4, you'll have a comprehensive understanding of anomaly detection, clustering, and the practical aspects of solving end-to-end machine learning problems. Feel free to reach out to guides if you have any questions or need assistance.
+By the end of Week 3, you'll have a comprehensive understanding of bias-variance tradeoff, underfitting, overfitting, neural networks, decision trees, and random forests. These concepts are fundamental for building effective machine learning models. Feel free to reach out to guides if you have any questions or need assistance.
 
 Happy learning!
