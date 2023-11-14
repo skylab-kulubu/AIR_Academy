@@ -20,7 +20,7 @@ Welcome to the AIR Team Machine Learning Introduction Academy! This repository s
 
 | Name               | Email                     | Linkedin                 | Github                  |
 | ------------------ | ------------------------- | -------------------------|-------------------------|
-| Ezgi Sevi           |  | | |
+| Ezgi Sevi           | ezgi.sevi16@gmail.com | [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/ezgi-sevi/) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ecisev16) |
 | Müdafer Kaymak        |  | | |
 | Melih Tuna İpek    | melihtunaipek.mti@gmail.com| [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/melih-tuna-ipek/) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MulahTeni)|
 | Emine Cansu Akgül | eminecansuakgul@gmail.com| [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/emine-cansu-akgul/) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/xcansuxakgul)|
